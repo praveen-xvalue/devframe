@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/praveen-xvalue/devframe.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/praveen-xvalue/DevFrame.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
